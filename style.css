@@ -1,0 +1,238 @@
+body {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+}
+
+.superDiv {
+      display: flex;
+      flex-direction: column;
+      border: 1px solid black;
+      width: 25em;
+}
+
+button {
+      cursor: pointer;
+}
+
+.display-div {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-end;
+}
+
+.display-class {
+      font-family: 'Barlow', sans-serif;
+      width: 29.6em;
+      height: 3.5em;
+      border: 1px solid black;
+      background-color: black;
+      color: aliceblue;
+      font-size: 2em;
+      text-align: right;
+      padding-right: .6em;
+}
+
+.first-line {
+      display: flex;
+      flex-direction: row;
+}
+
+.clear-button {
+      width: 10.6em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      font-family: 'Barlow', sans-serif;
+}
+
+.del-button {
+      width: 5.2em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      font-family: 'Barlow', sans-serif;
+}
+
+.division-button {
+      width: 5.57em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      background-color: #DF974C;
+      color: white;
+      font-family: 'Barlow', sans-serif;
+}
+
+/*  */
+
+.second-line {
+      display: flex;
+      flex-direction: row;
+}
+
+.seven-button {
+      width: 5.2em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      font-family: 'Barlow', sans-serif;
+}
+
+.eight-button {
+      width: 5.2em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      font-family: 'Barlow', sans-serif;
+}
+
+.nine-button {
+      width: 5.2em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      font-family: 'Barlow', sans-serif;
+}
+
+.multi-button {
+      width: 5.6em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      background-color: #DF974C;
+      color: white;
+      font-family: 'Barlow', sans-serif;
+}
+
+/*  */
+
+.third-line {
+      display: flex;
+      flex-direction: row;
+}
+
+.four-button {
+      width: 5.2em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      font-family: 'Barlow', sans-serif;
+}
+
+.five-button {
+      width: 5.2em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      font-family: 'Barlow', sans-serif;
+}
+
+.six-button {
+      width: 5.2em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      font-family: 'Barlow', sans-serif;
+}
+
+.minus-button {
+      width: 5.6em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      background-color: #DF974C;
+      color: white;
+      font-family: 'Barlow', sans-serif;
+}
+
+/*  */
+
+.fourth-line {
+      display: flex;
+      flex-direction: row;
+}
+
+.one-button {
+      width: 5.2em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      font-family: 'Barlow', sans-serif;
+}
+
+.two-button {
+      width: 5.2em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      font-family: 'Barlow', sans-serif;
+}
+
+.three-button {
+      width: 5.2em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      font-family: 'Barlow', sans-serif;
+}
+
+.plus-button {
+      width: 5.6em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      background-color: #DF974C;
+      color: white;
+      font-family: 'Barlow', sans-serif;
+}
+
+/*  */
+
+.fifth-line {
+      display: flex;
+      flex-direction: row;
+}
+
+.zero-button {
+      width: 16em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      font-family: 'Barlow', sans-serif;
+}
+
+.equal-button {
+      width: 5.58em;
+      height: 5em;
+      font-size: 1.5em;
+      font-weight: 900;
+      background-color: #DF974C;
+      color: white;
+      font-family: 'Barlow', sans-serif;
+}
+
+.division-button:hover {
+      color: white;
+      background-color: rgba(238, 70, 9, 0.623);
+}
+
+.multi-button:hover {
+      color: white;
+      background-color: rgba(238, 70, 9, 0.623);
+}
+
+.minus-button:hover {
+      color: white;
+      background-color: rgba(238, 70, 9, 0.623);
+}
+
+.plus-button:hover {
+      color: white;
+      background-color: rgba(238, 70, 9, 0.623);
+}
+
+.equal-button:hover {
+      color: white;
+      background-color: rgba(238, 70, 9, 0.623);
+}
